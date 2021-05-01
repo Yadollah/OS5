@@ -9,7 +9,7 @@ __کردن نیاز به وارد کردن اطلاعات نباشد push سوا
 
 : در دستور زیر ، نیاز دوباره ای به وارد کردن اطلاعات نخواهد بود 
 
-`sudo git clone https://username:your_password@github.com/username/repository_name.git`
+`git config credential.helper store`
 <br><br>
 
 __. سوال 2 : مفاهیم زیر را توضیح دهید__
