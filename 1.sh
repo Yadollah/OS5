@@ -1,1 +1,1 @@
-sudo git clone https://Yadollah:Yadollah234@github.com/Yadollah/OS5
+git config credential.helper store
